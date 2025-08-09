@@ -97,7 +97,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_LightingSettings: {fileID: 0}
+  m_LightingSettings: {fileID: 4890085278179872738, guid: 669cade49271667499e6a0fd13f956ca, type: 2}
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -4738,6 +4738,20 @@ PrefabInstance:
     - {fileID: 4644236738577583912, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
     - {fileID: 2064180083195847973, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
     - {fileID: 3092033651812300839, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+    - {fileID: 6808229632644048484, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+    - {fileID: 8772626317524787440, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+    - {fileID: 9085377926487374721, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+    - {fileID: 7791475588123890481, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+    - {fileID: 3588635046571255362, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+    - {fileID: 3125601293378351279, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+    - {fileID: 4295559116690147548, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+    - {fileID: 6338151360887720938, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+    - {fileID: 4440867635465186323, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+    - {fileID: 493215549036008380, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+    - {fileID: 3078683231887112228, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+    - {fileID: 3254246130093108696, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+    - {fileID: 2250158249308301610, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+    - {fileID: 6639688524758759166, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 8332028495659846915, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
       insertIndex: 3
